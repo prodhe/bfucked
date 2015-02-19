@@ -1,5 +1,4 @@
-bfucked
-=======
+# bfucked
 
 A Brainfuck interpreter written in C, mainly to refresh my knowledge.
 
